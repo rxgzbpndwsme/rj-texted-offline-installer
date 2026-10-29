@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RJ TextEd Free Installer** — RJ TextEd is a free full-featured text and source code editor for Windows. Works without internet access, no account required. Full offline installation.
+**💻 RJ TextEd Free Installer** — RJ TextEd is a free, full-featured text and source code editor for Windows with Unicode support, syntax highlighting, auto-completion, code folding, FTP client, CSS editor, and a document browser — offering professional editing features at no cost. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RJ TextEd
 
-RJ TextEd is a free full-featured text and source code editor for Windows. Supports Unicode, syntax highlighting for dozens of languages, a built-in file browser, FTP/SFTP connections, a CSS editor with visual tools, and HTML preview. RJ TextEd is particularly popular for web development tasks and editing configuration files with its comprehensive web technology support.
+RJ TextEd is a free, full-featured text and source code editor for Windows with Unicode support, syntax highlighting, auto-completion, code folding, FTP client, CSS editor, and a document browser — offering professional editing features at no cost.
 
 ---
 
 ## ❌ Problem: RJ TextEd is hard to access
 
-- **Windows Only** — No cross-platform version
-- **UI Complexity** — Feature-dense interface may overwhelm users wanting simple editing
-- **Dated Design** — Visual style less modern than editors like VS Code
-- **Extensions** — Plugin system less developed than major modern editors
+- **Windows Only** — Not available on macOS or Linux
+- **Dated Interface** — Visual design reflects older Windows application aesthetics
+- **Less Modular** — Extension system less flexible than VS Code or Sublime Text
+- **Smaller Community** — Fewer themes, plugins, and tutorials than mainstream editors
 
 ---
 
@@ -121,7 +121,7 @@ RJ TextEd is a free full-featured text and source code editor for Windows. Suppo
 
 ---
 
-**RJ TextEd Free Installer** — RJ TextEd is a free full-featured text and source code editor for Windows. Install without internet connection today!
+**RJ TextEd Free Installer** — RJ TextEd is a free, full-featured text and source code editor for Windows with Unicode support, syntax highlighting, auto-completion, code folding, FTP client, CSS editor, and a document browser — offering professional editing features at no cost. Install without internet connection today!
 
 <div align="center">
 
